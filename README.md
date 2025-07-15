@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Natasha
+- 👋 Hi, I’m Natalia
 - 👀 I’m interested in Machine Learning Engineering
 - 🌱 I’m currently learning Data Science and Deep Learning
 - 📫 How to reach me: natavitov@gmail.com
