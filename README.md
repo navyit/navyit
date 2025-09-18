@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Natalia
 - 👀 I’m interested in Machine Learning Engineering
-- 🌱 I’m currently learning Data Engineering, Data Science and Deep Learning
+- 🌱 I’m currently learning Deep Learning and Computer Vision
 - 📫 How to reach me: natavitov@gmail.com
 
 <!---
